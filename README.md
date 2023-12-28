@@ -1,4 +1,3 @@
-
 # Proyecto de Animaciones CSS
 
 Este proyecto demuestra el uso de animaciones CSS en combinación con JavaScript para lograr efectos visuales interesantes.
@@ -31,6 +30,12 @@ El proyecto incluye diversas animaciones CSS que se aplican a elementos específ
 
 2. **Abrir el Proyecto:**
    - Abre el archivo `index.html` en tu navegador web favorito.
+
+## Ejemplo de Animación
+
+Puedes visualizar una muestra de la animación a continuación:
+
+![gif](/assets/video/20231228-1523-04.2412547.mp4)
 
 ## Contacto 📧
 
